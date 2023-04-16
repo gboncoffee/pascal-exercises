@@ -1,0 +1,60 @@
+Aula 7: Exercícios
+==================
+
+Exercício 1:
+-----------
+Escreva um programa para ler as coordenadas reais (X, Y ) de um ponto no sistema cartesiano e escrever o quadrante ao qual o ponto pertence. Caso o ponto não pertenca a nenhum quandrante, escrever se ele está sobre o eixo X, eixo Y ou na origem.
+
+Exemplo 1:
+Entre com as coordenadas do ponto: 10 5
+Quadrante 1
+
+Exemplo 2:
+Entre com as coordenadas do ponto: 0 8
+Sobre o eixo Y
+
+ANALISE SUA SOLUÇÃO:
+
+- Seu programa foi desenvolvido utilizando 7 alternativas (4 quadrantes, eixo X, eixo Y e origem), como na versão 1 do programa maiorDe3-v1.pas?
+- Uma versão utilizando a idéia de árvore de decisão (como na versão 2 do programa maiorDe3-v2.pas) seria uma alternativa melhor para este problema?
+
+Exercício 2:
+-----------
+Escreva um programa que leia a quantidade N de coordenadas que serão digitadas.  Em seguida, seu programa deve ler as N coordenadas e, para cada uma delas, escrever o quadrante ao qual o ponto pertence, ou se ele está sobre o eixo X, eixo Y ou na origem.
+
+Exemplo 1:
+Entre com a quantidade de coordenadas: 5
+Entre com as coordenadas do ponto: -5.2 3
+Quadrante 2
+Entre com as coordenadas do ponto: 7 -7
+Quadrante 4
+Entre com as coordenadas do ponto: -9.8  -10.5
+Quadrante 3
+Entre com as coordenadas do ponto: 0 0
+Sobre a origem
+Entre com as coordenadas do ponto: -5.5 0
+Sobre o eixo X
+
+ANALISE SUA SOLUÇÃO:
+- Você utilizou o programa do Exercício 1 para resolver o Exercício 2?  Você alterou alguma linha de código da sua solução para o Exercício 1?
+
+Exercício 3:
+-----------
+Escreva um programa que leia uma sequencia de coordenadas. Para cada coordenada, o programa deve escrever o quadrante ao qual o ponto pertence, ou se ele está sobre o eixo X ou no eixo Y.  A sequencia termina quando os valores 0 0 (zero zero) forem digitados.
+Exemplo 1:
+Entre com as coordenadas do ponto: -5.2 3
+Quadrante 2
+Entre com as coordenadas do ponto: 7 -7
+Quadrante 4
+Entre com as coordenadas do ponto: -9.8  -10.5
+Quadrante 3
+Entre com as coordenadas do ponto: 0 0
+
+Exercício 4:
+-----------
+Faça um programa que leia uma sequencia de números reais terminada com zero.  O programa deve escrever a média dos números digitados.
+Exemplo:
+10.5 6.6 7.8 23.7 0
+media = 12.15
+
+
